@@ -3,7 +3,7 @@
 num = 407
 
 #take input from the user
-# num = int(input("Enter the number: "))
+num = int(input("Enter the number to check prime or not: "))
 
 #prime numbers are grater than 1
 
