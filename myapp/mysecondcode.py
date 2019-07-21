@@ -1,9 +1,10 @@
 #this programe check given number PRIME or not
 
-num = 407
+#num = 407
+
 
 #take input from the user
-# num = int(input("Enter the number: "))
+ num = int(input("Enter the number: "))
 
 #prime numbers are grater than 1
 
